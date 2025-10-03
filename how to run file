@@ -1,0 +1,7 @@
+Clone or download this repository.
+
+Place the dataset cleaned_caffeine_data.csv in the same folder as streamlit_dashboard.py.
+
+Run the Streamlit app:
+
+streamlit run streamlit_dashboard.py
